@@ -1,0 +1,63 @@
+.topcontainer{
+
+background-color: #e4e3e3;
+}
+body{
+  background-color: #e4e3e3;
+}
+#about{
+  padding: 0% 10% 5%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+  margin: 0px 50px 0px 50px ;
+}
+h3{
+  text-align: center;
+  font-family: "Monserrat-Bold";
+  padding-bottom: 30px;
+  text-decoration-color: #0779e4;
+  padding-top:7%;
+}
+
+p{
+  text-align: center;
+}
+#features{
+  margin: 0px  30px 40px 50px ;
+}
+.fas{
+  color: #0779e4;
+  padding:10%;
+  padding-left: 40%;
+}
+h4{
+  text-align: center;
+}
+h2{
+ text-align: center;
+ padding-top: 4%;
+}
+#countries{
+  background-color: #ffff;
+}
+.img{
+padding: 2% 8% 1% 9%;
+}
+#contact{
+  background-color:#333333;
+  color: #ffff;
+  margin-bottom: 0px ;
+  padding-bottom: 0px ;
+
+}
+h5{
+  padding:2% 0% 2% 0% ;
+  color: #ffff;
+  text-align: center;
+  font-family: "Monserrat-Bold"
+}
+#maps{
+  width: 100%;
+}
